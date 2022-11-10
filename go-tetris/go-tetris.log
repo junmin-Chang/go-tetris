@@ -1,0 +1,24 @@
+2022/11/10 13:23:16 boards.go:14: loadBoards start
+2022/11/10 13:23:16 boards.go:58: loadBoards end
+2022/11/10 13:23:16 engine.go:57: Engine Start start
+2022/11/10 13:23:16 engine.go:30: Engine Run start
+2022/11/10 13:23:29 engine.go:144: Engine NewGame start
+2022/11/10 13:23:29 engine.go:169: Engine NewGame end
+2022/11/10 13:23:47 engine.go:96: Engine Stop start
+2022/11/10 13:23:47 engine.go:106: Engine Stop end
+2022/11/10 13:23:47 engine.go:91: Engine Start end
+2022/11/10 13:23:47 view.go:31: View Stop start
+2022/11/10 13:23:47 engine.go:52: Engine Run end
+2022/11/10 13:23:47 view.go:35: View Stop end
+2022/11/10 13:23:52 boards.go:14: loadBoards start
+2022/11/10 13:23:52 boards.go:58: loadBoards end
+2022/11/10 13:23:52 engine.go:57: Engine Start start
+2022/11/10 13:23:52 engine.go:30: Engine Run start
+2022/11/10 13:23:54 engine.go:144: Engine NewGame start
+2022/11/10 13:23:54 engine.go:169: Engine NewGame end
+2022/11/10 13:25:16 engine.go:96: Engine Stop start
+2022/11/10 13:25:16 engine.go:106: Engine Stop end
+2022/11/10 13:25:16 engine.go:91: Engine Start end
+2022/11/10 13:25:16 view.go:31: View Stop start
+2022/11/10 13:25:16 engine.go:52: Engine Run end
+2022/11/10 13:25:16 view.go:35: View Stop end
